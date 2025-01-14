@@ -8,7 +8,7 @@ fn main() {
     println!("{}",s);
 
 
-    println!("Hello, world!");
+    println!("Hello, world!123");
     let s = format!("Hello, {}!", "world");
     println!("{}",s)
 }
